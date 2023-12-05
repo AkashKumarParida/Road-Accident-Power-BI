@@ -159,7 +159,7 @@ Used two `Slicer`
 - According to analysis casualties are occured more at **Day** time and more at **Urban** areas as well.
 
 ## Recommendations
-### Based on the analysis, we recommend the following actions:
+Based on the analysis, we recommend the following actions:
 -  Convert all the **Single Carriageway** roads into **Double Carriageway road**.
 
 - Deploy speed Limiter at high ways by which we can control the occurance of Casualities.

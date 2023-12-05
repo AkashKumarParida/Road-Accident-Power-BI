@@ -164,3 +164,6 @@ Based on the analysis, we recommend the following actions:
 
 - Deploy speed Limiter at high ways by which we can control the occurance of Casualities.
 - Take Serious actions against traffic rule breakers as well as deploy traffic cops.
+
+## Limitation
+I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis.

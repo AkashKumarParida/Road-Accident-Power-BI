@@ -2,15 +2,18 @@
 # Road accident Analysis
 
 ## Table of Contents
-
-
+- [Project Overview](https://github.com/Tr0z3nAk/Road-Accident-Power-BI#overview)
+- [Client Requirements](https://github.com/Tr0z3nAk/Road-Accident-Power-BI#client-requirements)
+- [Analysis](https://github.com/Tr0z3nAk/Road-Accident-Power-BI#data-analysis)
+- [Insights](https://github.com/Tr0z3nAk/Road-Accident-Power-BI#insights)
+- [Recommendations](https://github.com/Tr0z3nAk/Road-Accident-Power-BI#recommendations)
 
 ## Overview
 This analysis has done by Power BI independently.
 One of the key objectives in accident data analysis to identify the main factors associated with road, weather, vehicle and Day/Night. By analyzing various aspects of the accident data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding.
 
 
-![Dashboard]()
+![Road accident](https://github.com/Tr0z3nAk/Road-Accident-Power-BI/assets/140951166/c707fa8f-7a3b-4268-b150-f502f77283cb)
 
 
 
